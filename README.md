@@ -12,3 +12,6 @@ A problem solving process and algorithm inspired by Albert Einstein:
 
  ## Live Demo
  https://jorysmith.github.io/Albert
+
+ ## License Info
+ GNU GPL-3.0 license. [More Info.](https://github.com/JorySmith/Albert/blob/main/COPYING)
