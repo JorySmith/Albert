@@ -6,7 +6,7 @@ A problem solving process and algorithm inspired by Albert Einstein:
  "Try not to become a man of success. Rather become a man of value."
 
  ## Why Create this App?
- I feel I'm nowhere near living up to my potential as a problem solver and I don't think I'm alone in that feeling. Not performing at our best at solving problems holds us back a great deal at work, and at home.
+ Not performing at our best at solving problems holds us back a great deal at work and at home. I feel I'm nowhere near living up to my potential and I don't think I'm alone in that feeling.
  
  I also feel really frustrated that I can't remember all of the fundamentals, tips, and tricks I've learned over the years. So I set out to create an online solution that I can use anywhere, anytime.
 
