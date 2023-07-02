@@ -6,9 +6,11 @@ A problem solving process and algorithm inspired by Albert Einstein:
  "Try not to become a man of success. Rather become a man of value."
 
  ## Why Create this App?
- Not performing at our best at solving problems holds us back a great deal at work and at home. I feel I'm nowhere near living up to my potential and I don't think I'm alone in that feeling.
+ Struggling at solving problems holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in that feeling.
  
- I also feel really frustrated that I can't remember all of the fundamentals, tips, and tricks I've learned over the years. So I set out to create an online solution that I can use anywhere, anytime.
+ I also feel really frustrated that I can't remember all of the fundamentals, tips, and tricks I've learned over the years. There are just too many things to remember, especially when stakes are high or I'm simply just tired.
+ 
+ However, getting better at solving problems can make us incredibly valuable, not just to our companies and ourselves, but to our families and communities. So I set out to create an online solution that anyone can use anywhere, anytime.
 
  ## Live Demo
  https://jorysmith.github.io/Albert
