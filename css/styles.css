@@ -14,3 +14,16 @@
     margin-left: 37%;
   }
 }
+
+.tooltip-inner {
+  min-width: 400px !important;
+  background: #6c6c6c;
+  color: #fff;
+  padding: .5rem;  
+  border-radius: 7px;
+  opacity: 1 !important;
+}
+
+.tooltip.show {
+  opacity: 1 !important;
+}
