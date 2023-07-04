@@ -16,7 +16,7 @@
 }
 
 .tooltip-inner {
-  min-width: 400px !important;
+  min-width: 360px !important;
   background: #6c6c6c;
   color: #fff;
   padding: .5rem;  
