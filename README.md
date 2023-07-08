@@ -10,7 +10,7 @@ A problem solving process and algorithm inspired by Albert Einstein:
  
  I also feel really frustrated that I can't remember all of the fundamentals, tips, and tricks I've learned over the years. There are just too many things to remember, especially when stakes are high or I'm simply just tired.
  
- However, getting better at solving problems can make us incredibly valuable, not just to our companies and ourselves, but to our families and communities. So I set out to create an online solution that anyone can use anywhere, anytime.
+ However, getting better at solving problems can make us incredibly valuable, not just to our companies and ourselves, but to our families and communities. So I set out to create an online solution that anyone can use, anywhere, anytime.
 
  ## Live Demo
  https://jorysmith.github.io/Albert
