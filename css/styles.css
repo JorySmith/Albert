@@ -42,3 +42,7 @@
   color: #F56451;
   font-weight: 600;
 }
+
+sup {
+  margin: 0 .3rem;
+}
