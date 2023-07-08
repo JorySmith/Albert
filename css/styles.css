@@ -27,3 +27,8 @@
 .tooltip.show {
   opacity: 1 !important;
 }
+
+.technique-principle {  
+  color: #486da6;
+  font-weight: 600;
+}
