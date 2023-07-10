@@ -1,9 +1,9 @@
 # Albert
-A problem solving process and algorithm inspired by Albert Einstein:
+Problem Solving from First Principles. Inspired by Albert Einstein
 
  "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions."
 
- "Try not to become a man of success. Rather become a man of value."
+ Running away from problems is the greatest problem in the world.
 
  ## Why Create this App?
  Struggling at solving problems holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in that feeling.
