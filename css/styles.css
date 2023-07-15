@@ -73,7 +73,7 @@ li.dark-mode {
   position: relative;
   height: 14px;
   width: 30px;
-  transform: scale(1.5);
+  transform: scale(1.25);
 }
 
 .label .ball {
@@ -83,13 +83,13 @@ li.dark-mode {
   top: 0px;
   left: 0px;
   height: 14px;
-  width: 15px;
+  width: 16px;
   transform: translateX(0px);
   transition: transform 0.2s linear;
 }
 
 .checkbox:checked + .label .ball {
-  transform: translateX(15px);
+  transform: translateX(14px);
 }
 
 .fa-moon {
