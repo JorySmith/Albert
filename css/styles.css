@@ -35,8 +35,8 @@ a.dark-mode {
   color: #fff;
 }
 
-span.dark-mode {
-  color: #1d1d1d;
+span.dark-mode {  
+  color: var(--brand-dark-blue);
 }
 
 .accordion-body.dark-mode {
@@ -104,21 +104,8 @@ li.dark-mode {
   padding-top: 2px;
 }
 
-@media (max-width: 570px) {
-  .albert-logo {
-    margin-left: 31%;
-  }
-}
-@media (min-width: 570px) {
-  .albert-logo {
-    margin-left: 35%;
-  }
-}
-
-@media (min-width: 700px) {
-  .albert-logo {
-    margin-left: 37%;
-  }
+.accordion-body > strong {
+  color: var(--brand-dark-blue);
 }
 
 .list-group-item a {
@@ -155,4 +142,21 @@ li.dark-mode {
 
 sup {
   margin: 0 0.3rem;
+}
+
+@media (max-width: 570px) {
+  .albert-logo {
+    margin-left: 31%;
+  }
+}
+@media (min-width: 570px) {
+  .albert-logo {
+    margin-left: 35%;
+  }
+}
+
+@media (min-width: 700px) {
+  .albert-logo {
+    margin-left: 37%;
+  }
 }
