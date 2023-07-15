@@ -11,10 +11,15 @@ body {
 h1,
 h5 {
   color: var(--brand-dark-blue);
+  transition: background 0.25s linear;
 }
 
 a {
   color: var(--brand-teal);
+}
+
+span, .accordion-body, .accordion-button, li {
+  transition: background .3s linear;
 }
 
 /* Dark Mode Settings */
@@ -42,6 +47,10 @@ span.dark-mode {
 .accordion-body.dark-mode {
   color: #fff;
   background-color: var(--brand-grey);
+}
+
+.ul-subheading.dark-mode {
+  color: #fff;
 }
 
 .accordion-button.dark-mode {
