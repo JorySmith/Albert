@@ -37,9 +37,21 @@
   </head>
   <body>
     <div class="container mt-3 mb-5" style="max-width: 800px">
-      <header class="text-center">
-        <!-- Header -->
+      <!-- Header -->
+      <header class="text-center">        
+        <!-- Dark Mode Toggler -->
+        <div class="d-flex justify-content-end w-100">
+          <input type="checkbox" class="checkbox" id="toggler" />
+          <label class="label" for="toggler">
+            <i class="fas fa-sun"></i>
+            <i class="fas fa-moon"></i>
+            <div class="ball"></div>
+          </label>
+        </div>
         <div class="w-100 ml-5 mb-2 d-flex" style="max-height: 48px">
+
+          
+          
           <div class="d-flex w-100">
             <div class="albert-logo p-1 h-100">
               <img
@@ -56,6 +68,7 @@
         <h5 class="mb-5">
           Problem Solving from First Principles. Inspired by Albert Einstein.
         </h5>
+
         <div
           class="w-100 d-flex flex-column justify-content-center align-items-center mb-5"
         >
@@ -63,9 +76,13 @@
             "If I had an hour to solve a problem, I'd spend 55 minutes thinking
             about the problem and 5 minutes thinking about solutions."
           </p>
-          <p style="max-width: 500px">
+          <p class="mb-4" style="max-width: 500px">
             Running away from problems is the greatest problem in the world.
           </p>
+          <!-- Dark Mode Toggler -->
+          <!-- <div class="mb-3 w-100 d-flex justify-content-center">
+            
+          </div> -->
         </div>
       </header>
 
@@ -345,10 +362,10 @@
                     >Chip away at Goals/Tasks or Problems.</span
                   >
                   Stuck? The Problem/Goal/Task is probably too big. Chop it up
-                  into smaller ones. Focus on these smaller problems and
-                  incremental gains, progress, and victories over taking on too
-                  much at a time. Progress over perfection. You can always make
-                  improvements later as you iterate.
+                  into smaller ones to tackle. Focus on these smaller problems
+                  and incremental gains, progress, and victories over taking on
+                  too much at a time. Progress over perfection. You can always
+                  make improvements later as you iterate.
                   <a
                     class="text-decoration-none prevent-default .tooltip-inner"
                     href="#"
@@ -675,7 +692,9 @@
                     >Provide Demonstrations and Examples over
                     Explanations.</span
                   >
-                  Far more helpful, useful, and persuasive.
+                  Explanations are the least effective form of communication.
+                  From debates to teaching, examples and demonstrations provide
+                  far more helpfulness, usefulness, and persuasiveness to us.
                 </li>
                 <li class="list-group-item">
                   <span class="technique-principle"
@@ -1392,19 +1411,15 @@
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
       crossorigin="anonymous"
     ></script>
-    <script type="text/javascript">
-      $(function () {
-        $('[data-toggle="tooltip"]').tooltip();
-      });
-      $("a.prevent-default").click(function (e) {
-        // Cancel the default action
-        e.preventDefault();
-      });
-    </script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
       crossorigin="anonymous"
     ></script>
+    <script
+      src="https://kit.fontawesome.com/cf7a317168.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/scripts.js"></script>
   </body>
 </html>
