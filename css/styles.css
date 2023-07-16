@@ -18,8 +18,11 @@ a {
   color: var(--brand-teal);
 }
 
-span, .accordion-body, .accordion-button, li {
-  transition: background .3s linear;
+span,
+.accordion-body,
+.accordion-button,
+li {
+  transition: background 0.3s linear;
 }
 
 /* Dark Mode Settings */
@@ -28,36 +31,23 @@ body.dark-mode {
   color: #fff;
 }
 
-h1.dark-mode {
-  color: #fff;
-}
-
-h5.dark-mode {
-  color: #fff;
-}
-
-a.dark-mode {
-  color: #fff;
-}
-
-span.dark-mode {  
-  color: var(--brand-dark-blue);
-}
-
-.accordion-body.dark-mode {
-  color: #fff;
-  background-color: var(--brand-grey);
-}
-
+h1.dark-mode,
+h5.dark-mode,
+a.dark-mode,
+span.dark-mode,
 .ul-subheading.dark-mode {
   color: #fff;
 }
 
-.accordion-button.dark-mode {
+.crucial.technique-principle.dark-mode,
+.important.technique-principle.dark-mode,
+.technique-principle.dark-mode {
   color: #fff;
-  background-color: var(--brand-grey);
+  text-decoration: underline;
 }
 
+.accordion-body.dark-mode,
+.accordion-button.dark-mode,
 li.dark-mode {
   color: #fff;
   background-color: var(--brand-grey);
@@ -110,6 +100,11 @@ li.dark-mode {
   font-size: 10px;
   padding-top: 2px;
 }
+/* End of Dark Mode Section */
+
+span {
+  color: var(--brand-dark-blue);
+}
 
 .accordion-body > strong {
   color: var(--brand-dark-blue);
@@ -132,18 +127,18 @@ li.dark-mode {
   opacity: 1 !important;
 }
 
-.technique-principle {
-  color: #486da6;
+.crucial.technique-principle {
+  color: #f56451;
   font-weight: 600;
 }
 
-.top-technique-principle {
+.important.technique-principle {
   color: #f0a729;
   font-weight: 600;
 }
 
-.crucial-top-technique-principle {
-  color: #f56451;
+.technique-principle {
+  color: #486da6;
   font-weight: 600;
 }
 
