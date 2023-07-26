@@ -106,6 +106,15 @@ span {
   color: var(--brand-dark-blue);
 }
 
+.albert-logo {
+padding: .25rem 0 .18rem .25rem;
+}
+
+.albert-heading {
+  font-size: 40px;
+  letter-spacing: .05rem;
+}
+
 .accordion-body > strong {
   color: var(--brand-dark-blue);
 }
@@ -144,21 +153,4 @@ span {
 
 sup {
   margin: 0 0.3rem;
-}
-
-@media (max-width: 570px) {
-  .albert-logo {
-    margin-left: 31%;
-  }
-}
-@media (min-width: 570px) {
-  .albert-logo {
-    margin-left: 35%;
-  }
-}
-
-@media (min-width: 700px) {
-  .albert-logo {
-    margin-left: 37%;
-  }
 }
