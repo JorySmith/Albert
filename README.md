@@ -18,7 +18,7 @@ I also feel really frustrated that I can't remember all of the fundamentals, tip
  
 However, getting better at solving problems can make us incredibly valuable, not just to our companies and ourselves, but to our families and communities. So I set out to create an online solution that anyone can use, anywhere, anytime.
 
-## Contributors
+## Major Contributors
 [Ahmad @the_expertguy](https://www.fiverr.com/the_expertguy?source=inbox) - Mobile UI/UX Design
 
 ## License Info
