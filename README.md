@@ -21,5 +21,7 @@ However, getting better at solving problems can make us incredibly valuable, not
 ## Major Contributors
 [Ahmad @the_expertguy](https://www.fiverr.com/the_expertguy?source=inbox) - Mobile UI/UX Design
 
+[Brent David, DevRite CEO](https://devrite.io/) - Architecture and Development Strategic Plan
+
 ## License Info
 GNU GPL-3.0 license. [More Info.](https://github.com/JorySmith/Albert/blob/main/COPYING)
