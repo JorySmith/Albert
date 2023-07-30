@@ -22,7 +22,7 @@ span,
 .accordion-body,
 .accordion-button,
 li {
-  transition: background 0.3s linear;
+  transition: background 0.25s linear;
 }
 
 /* Dark Mode Settings */
@@ -66,9 +66,9 @@ li.dark-mode {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 4px;
+  padding: 4px 4px 6px;
   position: relative;
-  height: 14px;
+  height: 16px;
   width: 30px;
   transform: scale(1.25);
 }
@@ -79,7 +79,7 @@ li.dark-mode {
   position: absolute;
   top: 0px;
   left: 0px;
-  height: 14px;
+  height: 16px;
   width: 16px;
   transform: translateX(0px);
   transition: transform 0.2s linear;
