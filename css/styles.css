@@ -69,7 +69,7 @@ li.dark-mode {
   padding: 4px 4px 6px;
   position: relative;
   height: 16px;
-  width: 30px;
+  width: 32px;
   transform: scale(1.25);
 }
 
@@ -86,7 +86,7 @@ li.dark-mode {
 }
 
 .checkbox:checked + .label .ball {
-  transform: translateX(14px);
+  transform: translateX(16px);
 }
 
 .fa-moon {
