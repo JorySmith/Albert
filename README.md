@@ -12,7 +12,7 @@ Learn to run toward problems and fears.
 https://jorysmith.github.io/Albert
 
 ## About
-Struggling to solve problems thrown our way holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in that feeling.
+Struggling to solve problems thrown our way holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in feeling that way.
  
 I also feel really frustrated that I can't remember all the fundamentals, tips, and tricks I've learned over the years. There are just too many things to remember, especially when the stakes are high or I'm simply just tired.
  
