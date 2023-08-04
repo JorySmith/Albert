@@ -9,7 +9,7 @@ Running away from problems is the greatest problem in the world. <br>
 Learn to run toward problems and fears.
 
 ## Live Demo
-https://jorysmith.github.io/Albert
+New link!: https://albertapp.org
 
 ## About
 Struggling to solve problems thrown our way holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in feeling that way.
