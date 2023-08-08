@@ -6,7 +6,7 @@ A Simple Productivity App.
 "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - Albert Einstein
 
 Running away from problems is the greatest problem in the world. <br>
-Learn to run toward problems and fears.
+Learn to run toward problems and fears. The solutions are found within.
 
 ## Live Demo
 New link!: https://albertapp.org
