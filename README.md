@@ -1,15 +1,13 @@
 # Albert
 Problem Solving from First Principles. 
 
-A Simple Productivity App.
-
 "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - Albert Einstein
 
 Running away from problems is the greatest problem in the world. <br>
 Learn to run toward problems and fears. The solutions are found within.
 
 ## Live Demo
-New link!: https://albertapp.org
+https://albertapp.org
 
 ## About
 Struggling to solve problems thrown our way holds us back a great deal at work and at home. I feel I'm not living up to my potential and I don't think I'm alone in feeling that way.
