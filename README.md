@@ -22,15 +22,5 @@ However, getting better at solving problems can make us incredibly valuable, not
 
 [Brent David, DevRite CEO](https://devrite.io/) - Architecture and Development Strategic Planning
 
-Kelly Smith - Practical Poetry 
-
-Brad Smith - Practical Poetry 
-
-Jarek Smith - Practical Poetry 
-
-Blaze Smith - Practical Poetry 
-
-Hunter Smith - Practical Poetry 
-
 ## License Info
 GNU GPL-3.0 license. [More Info.](https://github.com/JorySmith/Albert/blob/main/COPYING)
