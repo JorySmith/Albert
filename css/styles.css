@@ -177,3 +177,7 @@ sup {
   max-width: 500px; 
   border-radius: 15px
 }
+
+footer p {
+  text-align: left;
+}
