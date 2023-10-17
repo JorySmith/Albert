@@ -19,7 +19,7 @@ h5 {
 }
 
 h2 button {
-  color: var(--brand-dark-grey);
+  color: var(--brand-dark-grey)!important;
   font-weight: 500;
 }
 
