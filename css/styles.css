@@ -1,11 +1,14 @@
 :root {
-  --brand-dark-blue: #152168;
+  --brand-dark-blue: #20339eb0;
   --brand-teal: #1c94c4;
   --brand-grey: #868686;
+  --brand-dark-grey: #494949ec;
+  /* #152169 */
 }
 
 body {
   transition: background 0.25s linear;
+  color: var(--brand-dark-grey);
 }
 
 h1,
@@ -119,6 +122,10 @@ padding: .25rem 0 .18rem .25rem;
   color: var(--brand-dark-blue);
 }
 
+.list-group-item {
+  color: var(--brand-dark-grey);
+}
+
 .list-group-item a {
   cursor: default;
 }
@@ -137,7 +144,7 @@ padding: .25rem 0 .18rem .25rem;
 }
 
 .crucial.technique-principle {
-  color: #f56451;
+  color: #f56451d8;
   font-weight: 600;
 }
 
@@ -147,7 +154,7 @@ padding: .25rem 0 .18rem .25rem;
 }
 
 .technique-principle {
-  color: #486da6;
+  color: #486ea6d2;
   font-weight: 600;
 }
 
