@@ -9,12 +9,17 @@
 body {
   transition: background 0.25s linear;
   color: var(--brand-dark-grey);
+  font-weight: 500;
 }
 
 h1,
 h5 {
   color: var(--brand-dark-blue);
   transition: background 0.25s linear;
+}
+
+h2 button {
+  font-weight: 500;
 }
 
 a {
