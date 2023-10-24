@@ -19,7 +19,7 @@ h5 {
 }
 
 h2 button {
-  color: var(--brand-dark-grey)!important;
+  color: var(--brand-dark-grey) !important;
   font-weight: 500;
 }
 
@@ -116,12 +116,12 @@ span {
 }
 
 .albert-logo {
-padding: .25rem 0 .18rem .25rem;
+  padding: 0.25rem 0 0.18rem 0.25rem;
 }
 
 .albert-heading {
   font-size: 40px;
-  letter-spacing: .05rem;
+  letter-spacing: 0.05rem;
 }
 
 .accordion-body > strong {
@@ -168,14 +168,18 @@ sup {
   margin: 0 0.3rem;
 }
 
+.about-me p {
+  color: var(--brand-dark-grey);
+}
+
 .li-img {
   text-align: center;
 }
 
 .li-img img {
-  width: 100%; 
-  max-width: 500px; 
-  border-radius: 15px
+  width: 100%;
+  max-width: 500px;
+  border-radius: 15px;
 }
 
 footer p {
