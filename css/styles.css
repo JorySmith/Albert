@@ -1,5 +1,5 @@
 :root {
-  --brand-dark-blue: #20339eb0;
+  --brand-dark-blue: #20339ec8;
   --brand-teal: #1c94c4;
   --brand-grey: #868686;
   --brand-dark-grey: #494949f5;
@@ -58,7 +58,7 @@ span.dark-mode,
 .accordion-body.dark-mode,
 .accordion-button.dark-mode,
 li.dark-mode {
-  color: #fff;
+  color: #fff !important;
   background-color: var(--brand-grey);
 }
 
@@ -150,17 +150,17 @@ span {
 }
 
 .crucial.technique-principle {
-  color: #f56451d8;
+  color: #f56451e4;
   font-weight: 600;
 }
 
 .important.technique-principle {
-  color: #f0a729;
+  color: #ef9803;
   font-weight: 600;
 }
 
 .technique-principle {
-  color: #486ea6d2;
+  color: #486ea6e8;
   font-weight: 600;
 }
 
@@ -168,7 +168,7 @@ sup {
   margin: 0 0.3rem;
 }
 
-.about-me p {
+.accordion-body {
   color: var(--brand-dark-grey);
 }
 
