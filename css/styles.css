@@ -34,14 +34,6 @@ li {
   transition: background 0.25s linear;
 }
 
-.popover,
-.popover-body {
-  background: var(--brand-dark-grey);
-  color: #fff;
-  border-radius: 10px;
-  text-align: center;
-}
-
 .quote-citation {
   color: #1c94c4;
   font-size: 0.85rem;
@@ -50,6 +42,19 @@ li {
   margin: 0 0 8px 0;
   background-color: transparent;
   border: none;
+}
+
+.popover {
+  background: transparent;
+  border: none;
+}
+
+.popover-body {
+  padding: 0.5rem;  
+  background: var(--brand-dark-grey);
+  color: #fff;
+  border-radius: 10px;
+  text-align: center;
 }
 
 /* Dark Mode Settings */
