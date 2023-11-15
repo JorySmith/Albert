@@ -34,6 +34,22 @@ li {
   transition: background 0.25s linear;
 }
 
+.popover-body {
+  background: var(--brand-dark-grey);
+  color: #fff;
+  border-radius: 10px;
+}
+
+.quote-citation {
+  color: #1c94c4;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: 0px 5px;
+  margin: 0 0 8px 0;
+  background-color: transparent;
+  border: none;
+}
+
 /* Dark Mode Settings */
 body.dark-mode {
   background: #232323;
@@ -44,8 +60,9 @@ h1.dark-mode,
 h5.dark-mode,
 a.dark-mode,
 span.dark-mode,
-.ul-subheading.dark-mode {
-  color: #fff;
+.ul-subheading.dark-mode,
+.quote-citation.dark-mode {
+  color: #fff !important;
 }
 
 .crucial.technique-principle.dark-mode,

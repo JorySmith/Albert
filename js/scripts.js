@@ -1,5 +1,11 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
+  const popoverTriggerList = document.querySelectorAll(
+    '[data-bs-toggle="popover"]'
+  );
+  const popoverList = [...popoverTriggerList].map(
+    (popoverTriggerEl) => new bootstrap.Popover(popoverTriggerEl)
+  );
 });
 $("a.prevent-default").click(function (e) {
   // Cancel the default action
@@ -16,6 +22,7 @@ const accordionButton = document.getElementsByClassName("accordion-button");
 const ulSubheading = document.getElementsByClassName("ul-subheading");
 const lists = document.getElementsByTagName("li");
 const spans = document.getElementsByTagName("span");
+const quotes = document.getElementsByClassName("quote-citation");
 
 toggler.addEventListener("change", () => {
   document.body.classList.toggle("dark-mode");
@@ -42,5 +49,8 @@ toggler.addEventListener("change", () => {
   }
   for (let i = 0; i < spans.length; i++) {
     spans[i].classList.toggle("dark-mode");
+  }
+  for (let i = 0; i < quotes.length; i++) {
+    quotes[i].classList.toggle("dark-mode");
   }
 });
