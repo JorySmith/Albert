@@ -3,7 +3,6 @@
   --brand-teal: #1c94c4;
   --brand-grey: #868686;
   --brand-dark-grey: #494949f5;
-  /* #152169 */
 }
 
 body {
@@ -49,8 +48,24 @@ li {
   border: none;
 }
 
+.popover.bs-popover-auto .popover-arrow:after {
+  border-top-color: var(--brand-dark-grey) !important;
+}
+
+.popover.bs-popover-auto .popover-arrow:after {
+  border-right-color: var(--brand-dark-grey) !important;
+}
+
+.popover.bs-popover-auto .popover-arrow:after {
+  border-bottom-color: var(--brand-dark-grey) !important;
+}
+
+.popover.bs-popover-auto .popover-arrow:after {
+  border-left-color: var(--brand-dark-grey) !important;
+}
+
 .popover-body {
-  padding: 0.5rem;  
+  padding: 0.6rem;
   background: var(--brand-dark-grey);
   color: #fff;
   border-radius: 10px;
