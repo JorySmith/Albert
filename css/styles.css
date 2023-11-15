@@ -34,15 +34,17 @@ li {
   transition: background 0.25s linear;
 }
 
+.popover,
 .popover-body {
   background: var(--brand-dark-grey);
   color: #fff;
   border-radius: 10px;
+  text-align: center;
 }
 
 .quote-citation {
   color: #1c94c4;
-  font-size: .85rem;
+  font-size: 0.85rem;
   font-weight: 600;
   padding: 0px 5px;
   margin: 0 0 8px 0;
