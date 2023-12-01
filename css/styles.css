@@ -33,6 +33,10 @@ li {
   transition: background 0.25s linear;
 }
 
+.jump-section{
+  cursor: pointer;
+}
+
 .quote-citation {
   color: #1c94c4;
   font-size: 0.85rem;
