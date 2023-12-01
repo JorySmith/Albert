@@ -37,6 +37,10 @@ li {
   cursor: pointer;
 }
 
+ul.list-group {
+  list-style-type: none;
+}
+
 .quote-citation {
   color: #1c94c4;
   font-size: 0.85rem;
