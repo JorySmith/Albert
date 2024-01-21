@@ -35,6 +35,7 @@ li {
 
 .jump-section{
   cursor: pointer;
+  line-height: 1.75rem;
 }
 
 ul.list-group {
