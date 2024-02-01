@@ -10,7 +10,7 @@ The solutions are found within.
 ## Live Demo
 https://albertapp.org
 
-## Major Contributors
+## Contributors
 [Ahmad @the_expertguy](https://www.fiverr.com/the_expertguy?source=inbox) - Mobile UI/UX Design
 
 [Brent David, DevRite CEO](https://devrite.io/) - Architecture and Development Strategic Planning
