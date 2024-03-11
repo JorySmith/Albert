@@ -14,6 +14,3 @@ https://albertapp.org
 [Ahmad @the_expertguy](https://www.fiverr.com/the_expertguy?source=inbox) - Mobile UI/UX Design
 
 [Brent David, DevRite CEO](https://devrite.io/) - Architecture and Development Strategic Planning
-
-## License Info
-GNU GPL-3.0 license. [More Info.](https://github.com/JorySmith/Albert/blob/main/COPYING)
