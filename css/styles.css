@@ -23,7 +23,7 @@ h2 button {
 }
 
 p > a {
- cursor: pointer;
+ cursor: pointer !important;
 }
 
 a {
