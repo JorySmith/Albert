@@ -22,6 +22,10 @@ h2 button {
   font-weight: 500;
 }
 
+p > a {
+ cursor: pointer;
+}
+
 a {
   color: var(--brand-teal);
 }
