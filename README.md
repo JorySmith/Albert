@@ -7,7 +7,7 @@ Running away from problems is the greatest problem in the world. <br>
 Try running toward problems and facing fears. <br>
 The solutions are found within.
 
-## Live Demo
+## Website Link
 https://albertapp.org
 
 ## Contributors
