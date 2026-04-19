@@ -23,7 +23,7 @@ h2 button {
 }
 
 p > a {
- cursor: pointer !important;
+  cursor: pointer !important;
 }
 
 a {
@@ -37,7 +37,7 @@ li {
   transition: background 0.25s linear;
 }
 
-.jump-section{
+.jump-section {
   cursor: pointer;
   line-height: 1.75rem;
 }
@@ -185,7 +185,7 @@ span {
 }
 
 .list-group-item a {
-  cursor: default;
+  /* cursor: default !important; */
 }
 
 .tooltip-inner {
